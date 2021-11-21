@@ -1,1 +1,1 @@
-# ML-Capstone-Project-Regression-TedTalksViewPrediction
+# Individual notebooks for the project
